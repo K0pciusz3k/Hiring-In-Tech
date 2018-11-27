@@ -5,7 +5,7 @@ As you may already know, we run an annual recruitment survey among the developer
 Our recent survey confirmed that the recruitment process in Berlin needs to be fixed. So, we are having a conversation between HR specialists, tech executives, and developers. Together, we hope to come up with ways companies in Berlin can improve their hiring process.
 
 
-Let’s exchange stories and find the solutions together with our panel speakers:
+## Let’s exchange stories and find the solutions together with our panel speakers:
 
 	• Anna Fishman — HR @ Paua Ventures
 
@@ -20,13 +20,13 @@ Let’s exchange stories and find the solutions together with our panel speakers
 	• Alexey Hanin — Director of Engineering @ AppLift
 
 
-When: Thursday, December 6, 18:00.
+## When: Thursday, December 6, 18:00.
 
 
-Where: Mindspace: Berlin, Friedrichstraße 68 (the event space).
+## Where: Mindspace: Berlin, Friedrichstraße 68 (the event space).
 
 
-Agenda:
+### Agenda:
 
 	• 18:00 — Networking
 
